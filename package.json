@@ -1,7 +1,7 @@
 {
   "name": "hello-gh-pages",
   "version": "1.0.0",
-  "description": "on dev machine",
+  "description": "trying out gh-pages",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
