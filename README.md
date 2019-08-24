@@ -36,3 +36,12 @@ git commit -m "init"
 git remote add origin git@github.com:magnusmossberg/hello-gh-pages.git
 git push -u origin master
 ```
+
+then run
+```
+npm run deploy
+```
+
+this will create a gh-pages branch on github containing the content of the dist folder
+
+and it will be available at https://magnusmossberg.github.io/hello-gh-pages/
